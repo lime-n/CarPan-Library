@@ -9,7 +9,9 @@ Additional implementations:
 1. Load the class into another python file. 
 2. Build on logarithmic transformations for log(2).
 3. Develop multiprocessing, queuing, scheduler, concurrency and multithreading options to improve speed for large numbers.
-4.
+
+Future aims:
+1. Get into higher column dimensions.
 
 
 Final objective:
