@@ -10,6 +10,9 @@ Additional implementations:
 2. Build on logarithmic transformations for log(2).
 3. Develop multiprocessing, queuing, scheduler, concurrency and multithreading options to improve speed for large numbers.
 
+Current speed for 10 million:
+1. 18/05/2021 - 14.2 seconds
+
 Future aims:
 1. Get into higher column dimensions.
 
