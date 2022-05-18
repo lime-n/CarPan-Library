@@ -6,3 +6,6 @@ I will try to develop unique syntactical methods of structure descriptive relate
 
 Update:
 - In Progress.
+
+Aims:
+1. Develop a multidimensional matrix for any given multiple. Design this so it's static at $2^n$
