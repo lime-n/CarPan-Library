@@ -8,6 +8,8 @@ Update:
 - In Progress.
 
 Aims:
-1. Develop a multidimensional matrix for any given multiple. Design this so it's static at ```math
+1. Develop a multidimensional matrix for any given multiple. Design this so it's static at 
+
+```math
 SE = \frac{\sigma}{\sqrt{n}}
 ```
