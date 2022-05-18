@@ -13,4 +13,4 @@ Aims:
 3. Design convergence criterion for the matrix at 2^n, designed to prove L-factual spaces and L-determinate spaces. With a finite number of predicates at k = 1/2^n, with w = 2^n.
 
 Future Developments:
-1. defining an attribute space of n-dimensions on a uniform distribution.
+1. Defining an attribute space of n-dimensions on a uniform distribution.
