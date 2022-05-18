@@ -8,9 +8,9 @@ Update:
 - In Progress.
 
 Aims:
-1. Develop a multidimensional matrix for any given multiple. Design this so it's static at `2^n` columns with n >= 1 rows.
+1. Develop a multidimensional matrix for any given multiple. Design this so it's static at `2` columns with n >= 1 rows.
 2. Develop log(2) of the matrix with increasing multiprocessing effects and threading to improve efficiency. 
-3. Design convergence criterion for the matrix at 2^n, designed to prove L-factual spaces and L-determinate spaces. With a finite number of predicates at k = 1/2^n, with w = 2^n.
+3. Design convergence criterion for the matrix at 2^n and 2n, designed to prove L-factual spaces and L-determinate spaces. With a finite number of predicates at k = 1/2^n, with w = 2^n.
 
 Future Developments:
 1. Defining an attribute space of n-dimensions on a uniform distribution.
