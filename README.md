@@ -14,3 +14,4 @@ Aims:
 
 Future Developments:
 1. Defining an attribute space of n-dimensions on a uniform distribution.
+2. Defining 1/(2n) random numbers generated from a uniform distribution mapped into the standard normal distribution. The purpose is to arrange matrices at 2 static columns to produce a box-muller generator.
