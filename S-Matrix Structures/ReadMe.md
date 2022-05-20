@@ -2,7 +2,7 @@
 
 This script implements the following logic:
 1. Take all multiples of a provided number.
-2. Extend the list of multiples when an odd length is given. For example, the multiples of 9 are [1, 3, 9], however the length of the array is 3, we only want even arrays, so we add the middle value in again, so we get [1, 3, 3, 9]. Therefore, the outer values are always a multiplication of 9 i.e. [1,9], [3,3].
+2. Extend the list of divisors when an odd length is given. For example, the divisors of 9 are [1, 3, 9], however the length of the array is 3, we only want even arrays, so we add the middle value in again, so we get [1, 3, 3, 9]. Therefore, the outer values are always a multiplication of 9 i.e. [1,9], [3,3].
 3. Create a 2-dimensional array with n >= 1 rows.
 
 Additional implementations:
